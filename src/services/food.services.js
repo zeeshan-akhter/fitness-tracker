@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = 'https://buzz-fitness-backend.zeeshanakhter.repl.co/api/v1';
+const BASE_URL = 'https://buzz-fitness-backend.zeeshanakhter.repl.co/';
 
 
 
