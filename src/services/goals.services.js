@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = 'https://buzz-fitness-backend.zeeshanakhter.repl.co/';
+const BASE_URL = 'https://buzz-fitness-backend.zeeshanakhter.repl.co';
 
 export const fetchGoals = async (userId) => {
     try {

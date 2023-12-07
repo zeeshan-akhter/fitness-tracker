@@ -1,7 +1,7 @@
 import axios from "axios";
 import { setSignupUser } from "../actions/userAction";
 
-const BASE_URL = 'https://buzz-fitness-backend.zeeshanakhter.repl.co/';
+const BASE_URL = 'https://buzz-fitness-backend.zeeshanakhter.repl.co';
 
 
 export const fetchSignup = async (userData) => {
