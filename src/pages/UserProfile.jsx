@@ -36,7 +36,7 @@ export const UserProfile = () => {
                 <div>
                     <h2>{profile?.nickname}</h2>
                     <h3>@{profile?.username}</h3>
-                    <a href="https://github.com/Sonualam-bot/fitness-tracker/tree/main" target="_blank" >GitHub</a>
+                    <a href="https://github.com/zeeshan-akhter" target="_blank" >GitHub</a>
                 </div>
                 <div className="logout-container">
                     <button className="logout-button" onClick={logout}>Logout</button>
